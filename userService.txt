@@ -1,1 +1,2 @@
-get the user data
+get the user datag
+prcess the data
